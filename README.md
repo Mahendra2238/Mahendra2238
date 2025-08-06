@@ -69,8 +69,9 @@ Soft Skills: Communication, Teamwork, Ownership, Adaptability
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://github.com/Mahendra2238/Mahendra2238/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Mahendra2238/Mahendra2238/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 
 ---
 

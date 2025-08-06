@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:mahendragaddam379@gmail.com"><img src="https://img.shields.io/badge/Gmail-mahendragaddam379@gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/mahendra2238"><img src="https://img.shields.io/badge/LinkedIn-Mahendra-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="[https://www.linkedin.com/in/mahendra2238](https://www.linkedin.com/in/mahendra-gaddam-a77221299/)"><img src="https://img.shields.io/badge/LinkedIn-Mahendra-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="https://mahendra2238.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=githubpages"></a>
 </p>
 

@@ -75,9 +75,8 @@ Soft Skills: Communication, Teamwork, Ownership, Adaptability
 ---
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=700&lines=🌟+Mahendra+Gaddam+%7C+Creative+Technologist;💻+Full-Stack+%7C+AI%2FML+%7C+DSA;🚀+Ready+to+Innovate+%26+Inspire" alt="Animated Developer Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FACC15&center=true&vCenter=true&width=700&lines=🚀+Mahendra+Gaddam+%7C+Creative+Technologist;💻+Software+Developer+%7C+AI%2FML+Explorer;🎓+Final+Year+%7C+BTech+CSE+@+SR+University;🔥+Placement+Ready+%7C+Let’s+Innovate!" alt="Typing Animation" />
 </h1>
-
 
 ---
 

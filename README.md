@@ -72,7 +72,6 @@ Soft Skills: Communication, Teamwork, Ownership, Adaptability
   <img src="https://raw.githubusercontent.com/Mahendra2238/Mahendra2238/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-
 ---
 
 ## 🎯 Goals

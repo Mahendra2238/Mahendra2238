@@ -1,7 +1,7 @@
 <!-- GitHub Profile: Mahendra2238 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahendra+Gaddam;Software+Developer+%7C+AI%FML+Explorer;BTech+CSE+@+SR+University;Final+Year+Engineer+%7C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahendra+Gaddam;Software+Developer+%7C+AI%2FML+Explorer;B.Tech+CSE+%40+SR+University;Final+Year+Engineer+%7C+Placement+Ready" alt="Typing SVG" />
 </h1>
 
 <p align="center">

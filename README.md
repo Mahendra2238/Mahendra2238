@@ -79,7 +79,7 @@ Soft Skills: Communication, Teamwork, Ownership, Adaptability
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=800&color=00FFC0&center=true&vCenter=true&width=550&lines=Building+Puzzles+with+Code;Crafting+Software+with+Precision;Engineer+%7C+Developer+%7C+Dreamer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=800&color=00FFC0&center=true&vCenter=true&width=550&lines=Crafting+Software+with+Precision;Engineer+%7C+Developer+%7C+Dreamer" alt="Typing SVG" />
 </p>
 
 

@@ -74,6 +74,12 @@ Soft Skills: Communication, Teamwork, Ownership, Adaptability
 
 ---
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=🚀+Mahendra+Gaddam+%7C+Innovator+in+Code;💻+Software+Developer+%7C+AI%2FML+Engineer;🚀+Final+Year+%7C+BTech+CSE+@+SR+University" alt="Mahendra Gaddam Typing SVG" />
+</h1>
+
+---
+
 ## 🎯 Goals
 
 * ✅ Crack software developer placements (product + service companies)

@@ -112,6 +112,30 @@ Soft Skills: Communication, Teamwork, Ownership, Adaptability
 * 🎯 Contribute to major open-source projects
 
 ---
+<!-- 🚀 Glitch SVG Header -->
+<p align="center">
+  <svg width="100%" height="160" viewBox="0 0 1000 100" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+    <defs>
+      <filter id="glitch">
+        <feColorMatrix in="SourceGraphic" type="matrix"
+          values="1 0 0 0 0
+                  0 1 0 0 0
+                  0 0 1 0 0
+                  0 0 0 1 0"/>
+        <feOffset in="SourceGraphic" dx="2" dy="0" result="r"/>
+        <feOffset in="SourceGraphic" dx="-2" dy="0" result="b"/>
+        <feBlend in="r" in2="b" mode="screen"/>
+        <feDisplacementMap in="SourceGraphic" in2="r" scale="4" xChannelSelector="R" yChannelSelector="G"/>
+      </filter>
+    </defs>
+    <text x="50%" y="50%" font-size="28" text-anchor="middle" fill="#00ffff" font-family="monospace"
+          dy=".3em" letter-spacing="4px" filter="url(#glitch)">
+      ███ MAHENDRA GADDAM ███
+    </text>
+  </svg>
+</p>
+
+---
 
 <p align="center"><b>“I don't just write code. I craft intelligent, reliable experiences.”</b></p> 
 <p align="center">Let’s build something amazing together. 🚀</p>

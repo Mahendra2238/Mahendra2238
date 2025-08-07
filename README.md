@@ -112,34 +112,9 @@ Soft Skills: Communication, Teamwork, Ownership, Adaptability
 * 🎯 Contribute to major open-source projects
 
 ---
-<!-- 🚀 Glitch SVG Header -->
-<p align="center">
-  <svg width="100%" height="160" viewBox="0 0 1000 100" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
-    <defs>
-      <filter id="glitch">
-        <feColorMatrix in="SourceGraphic" type="matrix"
-          values="1 0 0 0 0
-                  0 1 0 0 0
-                  0 0 1 0 0
-                  0 0 0 1 0"/>
-        <feOffset in="SourceGraphic" dx="2" dy="0" result="r"/>
-        <feOffset in="SourceGraphic" dx="-2" dy="0" result="b"/>
-        <feBlend in="r" in2="b" mode="screen"/>
-        <feDisplacementMap in="SourceGraphic" in2="r" scale="4" xChannelSelector="R" yChannelSelector="G"/>
-      </filter>
-    </defs>
-    <text x="50%" y="50%" font-size="28" text-anchor="middle" fill="#00ffff" font-family="monospace"
-          dy=".3em" letter-spacing="4px" filter="url(#glitch)">
-      ███ MAHENDRA GADDAM ███
-    </text>
-  </svg>
-</p>
-<pre> ███████╗ █████╗ ██╗ ██╗███╗ ██╗██████╗ ███████╗██████╗ █████╗ ██████╗ █████╗ ██████╗ ██████╗ █████╗ ███╗ ███╗ ██╔════╝██╔══██╗██║ ██╔╝████╗ ██║██╔══██╗██╔════╝██╔══██╗██╔══██╗ ██╔════╝ ██╔══██╗██╔══██╗██╔══██╗██╔══██╗████╗ ███║ █████╗ ███████║█████╔╝ ██╔██╗ ██║██║ ██║█████╗ ██████╔╝███████║ ██║ ███╗███████║██████╔╝██████╔╝███████║██╔██╗██║ ██╔══╝ ██╔══██║██╔═██╗ ██║╚██╗██║██║ ██║██╔══╝ ██╔═══╝ ██╔══██║ ██║ ██║██╔══██║██╔═══╝ ██╔═══╝ ██╔══██║██║╚████║ ███████╗██║ ██║██║ ██╗██║ ╚████║██████╔╝███████╗██║ ██║ ██║ ╚██████╔╝██║ ██║██║ ██║ ██║ ██║██║ ╚███║ ╚══════╝╚═╝ ╚═╝╚═╝ ╚═╝╚═╝ ╚═══╝╚═════╝ ╚══════╝╚═╝ ╚═╝ ╚═╝ ╚═════╝ ╚═╝ ╚═╝╚═╝ ╚═╝ ╚═╝ ╚═╝╚═╝ ╚══╝ </pre>
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=650&lines=AI%2FML+Explorer+%7C+Full+Stack+Developer;Building+Tomorrow's+Tech%2C+Today.;Final+Year+CSE+@+SR+University;Open+Source+%E2%9D%A4+Lover+%7C+Placement+Ready" alt="Typing animation" />
-</h1>
 
-<p align="center"><strong><em>“I turn complexity into clarity – one line of code at a time.”</em></strong></p>
+<!-- 🚀 Glitch SVG Header -->
+<pre> ███████╗ █████╗ ██╗ ██╗███╗ ██╗██████╗ ███████╗██████╗ █████╗ ██████╗ █████╗ ██████╗ ██████╗ █████╗ ███╗ ███╗ ██╔════╝██╔══██╗██║ ██╔╝████╗ ██║██╔══██╗██╔════╝██╔══██╗██╔══██╗ ██╔════╝ ██╔══██╗██╔══██╗██╔══██╗██╔══██╗████╗ ███║ █████╗ ███████║█████╔╝ ██╔██╗ ██║██║ ██║█████╗ ██████╔╝███████║ ██║ ███╗███████║██████╔╝██████╔╝███████║██╔██╗██║ ██╔══╝ ██╔══██║██╔═██╗ ██║╚██╗██║██║ ██║██╔══╝ ██╔═══╝ ██╔══██║ ██║ ██║██╔══██║██╔═══╝ ██╔═══╝ ██╔══██║██║╚████║ ███████╗██║ ██║██║ ██╗██║ ╚████║██████╔╝███████╗██║ ██║ ██║ ╚██████╔╝██║ ██║██║ ██║ ██║ ██║██║ ╚███║ ╚══════╝╚═╝ ╚═╝╚═╝ ╚═╝╚═╝ ╚═══╝╚═════╝ ╚══════╝╚═╝ ╚═╝ ╚═╝ ╚═════╝ ╚═╝ ╚═╝╚═╝ ╚═╝ ╚═╝ ╚═╝╚═╝ ╚══╝ </pre>
 
 ---
 

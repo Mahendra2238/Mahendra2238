@@ -1,8 +1,7 @@
 <!-- GitHub Profile: Mahendra2238 -->
 
-<!-- EPIC HEADER WITH GLITCH EFFECT -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%E2%9A%A1+MAHENDRA+GADDAM+%E2%9A%A1;Software+Developer+%7C+AI%2FML+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF3E3E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahendra+Gaddam;Software+Developer+%7C+AI%2FML+Explorer;B.Tech+CSE+%40+SR+University;Final+Year+Engineer;Placement+Ready" alt="Typing SVG" />
 </h1>
 
 <p align="center">

@@ -88,11 +88,9 @@ Soft Skills: Communication, Teamwork, Ownership, Adaptability
 
 ## 🐍 My Contribution Snake
 
-<hr>
 <div align="center">
   <img src="https://github.com/jayanthbottu/dustbin/blob/main/snake.svg" alt="Snake animation" />
 </div>
-<hr>
 
 ---
 

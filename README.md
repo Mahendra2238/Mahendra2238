@@ -134,6 +134,12 @@ Soft Skills: Communication, Teamwork, Ownership, Adaptability
     </text>
   </svg>
 </p>
+<pre> ███████╗ █████╗ ██╗ ██╗███╗ ██╗██████╗ ███████╗██████╗ █████╗ ██████╗ █████╗ ██████╗ ██████╗ █████╗ ███╗ ███╗ ██╔════╝██╔══██╗██║ ██╔╝████╗ ██║██╔══██╗██╔════╝██╔══██╗██╔══██╗ ██╔════╝ ██╔══██╗██╔══██╗██╔══██╗██╔══██╗████╗ ███║ █████╗ ███████║█████╔╝ ██╔██╗ ██║██║ ██║█████╗ ██████╔╝███████║ ██║ ███╗███████║██████╔╝██████╔╝███████║██╔██╗██║ ██╔══╝ ██╔══██║██╔═██╗ ██║╚██╗██║██║ ██║██╔══╝ ██╔═══╝ ██╔══██║ ██║ ██║██╔══██║██╔═══╝ ██╔═══╝ ██╔══██║██║╚████║ ███████╗██║ ██║██║ ██╗██║ ╚████║██████╔╝███████╗██║ ██║ ██║ ╚██████╔╝██║ ██║██║ ██║ ██║ ██║██║ ╚███║ ╚══════╝╚═╝ ╚═╝╚═╝ ╚═╝╚═╝ ╚═══╝╚═════╝ ╚══════╝╚═╝ ╚═╝ ╚═╝ ╚═════╝ ╚═╝ ╚═╝╚═╝ ╚═╝ ╚═╝ ╚═╝╚═╝ ╚══╝ </pre>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=650&lines=AI%2FML+Explorer+%7C+Full+Stack+Developer;Building+Tomorrow's+Tech%2C+Today.;Final+Year+CSE+@+SR+University;Open+Source+%E2%9D%A4+Lover+%7C+Placement+Ready" alt="Typing animation" />
+</h1>
+
+<p align="center"><strong><em>“I turn complexity into clarity – one line of code at a time.”</em></strong></p>
 
 ---
 

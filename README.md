@@ -5,16 +5,22 @@
 </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/99184393/262482979-f6be5aa5-e79f-4f6e-9b25-f5de7284cb0a.gif" width="700"/>
+  <img src="https://user-images.githubusercontent.com/99184393/262482979-f6be5aa5-e79f-4f6e-9b25-f5de7284cb0a.gif" width="700" alt="Coding Animation"/>
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mahendra2238&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Mahendra2238?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Mahendra2238?label=Stars&style=social" alt="GitHub stars" />
+  <a href="https://github.com/Mahendra2238" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Mahendra2238&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/Mahendra2238?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/Mahendra2238?label=Followers&style=social" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/Mahendra2238?tab=stars" target="_blank">
+    <img src="https://img.shields.io/github/stars/Mahendra2238?label=Stars&style=social" alt="GitHub Stars"/>
+  </a>
 </div>
 
----
+<hr>
 
 ## 🌐 Connect With Me
 
@@ -141,4 +147,5 @@ Soft Skills: Communication, Teamwork, Ownership, Adaptability
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
 </div>
+
 ```

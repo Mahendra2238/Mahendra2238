@@ -31,18 +31,17 @@
 </p>
 
 ---
-<div align="justify">
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="225" alt="Coding" style="margin-left: 12px; margin-top: -35px;" />
 
 ## 🚀 About Me
+<div align="justify">
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="150" alt="Coding" style="margin-left: 20px; margin-top: -35px;" />
 
 - 🎓 Final-year B.Tech (CSE) @ **SR University** `CGPA: 9.3/10`  
 - 🏆 Diploma in CSE from Govt. Polytechnic, Warangal `CGPA: 9.74/10`  
 - 💡 Passionate about **AI/ML, Full Stack Dev, and Embedded IoT**  
 - ⚙️ Exploring **System Design** and **Scalable ML Deployments**  
 - 📈 Motto: *“Reimagine, Reinvent, Realize.”*
-<br>
 </div>
 
 

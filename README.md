@@ -34,6 +34,7 @@
 
 ## 🚀 About Me
 
+<img align="right" alt="Coding" width="280" height="255" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 🎯 Passionate about building impactful software and smart systems.  
 🎓 Final-year B.Tech student in Computer Science @ **SR University** (CGPA: `9.3/10`)  
 🏆 Diploma in CSE from Govt. Polytechnic, Warangal (CGPA: `9.74/10`)  

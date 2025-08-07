@@ -8,6 +8,12 @@
   <img src="https://user-images.githubusercontent.com/99184393/262482979-f6be5aa5-e79f-4f6e-9b25-f5de7284cb0a.gif" width="700"/>
 </p>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mahendra2238&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Mahendra2238?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Mahendra2238?label=Stars&style=social" alt="GitHub stars" />
+</div>
+
 ---
 
 ## 🌐 Connect With Me
@@ -76,14 +82,12 @@ Soft Skills: Communication, Teamwork, Ownership, Adaptability
 
 ## 🐍 My Contribution Snake
 
-<!-- Light Mode Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahendra2238/Mahendra2238/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahendra2238/Mahendra2238/output/github-contribution-grid-snake.svg" />
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Mahendra2238/Mahendra2238/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<!-- Neon Glow Variant -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mahendra2238/Mahendra2238/output/github-contribution-grid-snake-neon.svg" alt="Neon Snake" />
 </p>
@@ -112,6 +116,8 @@ Soft Skills: Communication, Teamwork, Ownership, Adaptability
   </pre>
 </h2>
 
+---
+
 ## 📌 Goals for 2025
 
 * ✅ Crack top-tier software developer roles
@@ -124,5 +130,15 @@ Soft Skills: Communication, Teamwork, Ownership, Adaptability
 
 <p align="center"><b>“I don't just write code. I craft intelligent, reliable experiences.”</b></p> 
 <p align="center">Let’s build something amazing together. 🚀</p>
-```
 
+---
+
+<div align="center">
+  <h3>⭐ From <a href="https://github.com/Mahendra2238">Mahendra2238</a> with ❤️</h3>
+  <p><i>Happy Coding! 🚀</i></p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
+</div>
+```

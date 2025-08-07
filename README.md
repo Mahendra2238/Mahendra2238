@@ -76,8 +76,16 @@ Soft Skills: Communication, Teamwork, Ownership, Adaptability
 
 ## 🐍 My Contribution Snake
 
+<!-- Light Mode Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahendra2238/Mahendra2238/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahendra2238/Mahendra2238/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Mahendra2238/Mahendra2238/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<!-- Neon Glow Variant -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mahendra2238/Mahendra2238/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Mahendra2238/Mahendra2238/output/github-contribution-grid-snake-neon.svg" alt="Neon Snake" />
 </p>
 
 ---

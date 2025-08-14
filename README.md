@@ -25,10 +25,20 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:mahendragaddam379@gmail.com"><img src="https://img.shields.io/badge/Gmail-mahendragaddam379-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/mahendra-gaddam-a77221299/"><img src="https://img.shields.io/badge/LinkedIn-Mahendra-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://mahendra2238.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  <a href="mailto:mahendragaddam379@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-mahendragaddam379-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/mahendra-gaddam-a77221299/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mahendra-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://mahendra2238.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=githubpages&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/u/Mahendra2238/">
+    <img src="https://leetcode.com/u/QO0wnzSslA/">
+  </a>
 </p>
+
 
 ---
 

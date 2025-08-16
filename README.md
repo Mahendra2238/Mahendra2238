@@ -76,8 +76,8 @@ Soft Skills:  Communication, Ownership, Teamwork, Adaptability
 
 ## 💼 Internships
 
-* 🔹 **AI/ML Intern(virtual)** – *Gustovalley Technovations* (Apr–May 2024)
-* 🔹 **Full Stack Web Intern(virtual)** – *A.N.D.* (Jun–Aug 2024)
+* 🔹 **AI/ML Intern *(virtual)** – *Gustovalley Technovations* (Apr–May 2024)
+* 🔹 **Full Stack Web Intern *(virtual)** – *A.N.D.* (Jun–Aug 2024)
 * 🔹 **Python & ASP.NET Trainee** – *Softwayz IT Solutions* (Dec 2022–May 2023)
 
 ---

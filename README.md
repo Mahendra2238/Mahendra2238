@@ -31,7 +31,7 @@
   <a href="https://www.linkedin.com/in/mahendra-gaddam-a77221299/">
     <img src="https://img.shields.io/badge/LinkedIn-Mahendra-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://mahendra2238.github.io/portfolio/">
+  <a href="https://portfoli-om.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=githubpages&logoColor=white">
   </a>
   <a href="https://leetcode.com/u/QO0wnzSslA/">

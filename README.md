@@ -37,9 +37,10 @@
   <a href="https://leetcode.com/u/QO0wnzSslA/">
     <img src="https://img.shields.io/badge/LeetCode-86%20problem%20solved-orange?style=for-the-badge&logo=leetcode&logoColor=white">
   </a>
+  <a href="https://www.geeksforgeeks.org/user/mahendragoedr/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Mahendra-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+  </a>
 </p>
-
-
 
 
 ---

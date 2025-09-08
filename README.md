@@ -40,6 +40,9 @@
   <a href="https://www.geeksforgeeks.org/user/mahendragoedr/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Mahendra-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
   </a>
+  <a href="https://www.hackerrank.com/profile/2303a51la9">
+    <img src="https://img.shields.io/badge/HackerRank-Mahendra-success?style=for-the-badge&logo=hackerrank&logoColor=white">
+  </a>
 </p>
 
 

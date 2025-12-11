@@ -134,11 +134,12 @@ Soft Skills:  Communication, Ownership, Teamwork, Adaptability
 
 ## 🎯 2025 Goals
 
-✅ Secure a strong role in AI/ML, Full-Stack, or Software Engineering
-✅ Master 300+ DSA problems across LeetCode/GFG
-🚀 Build production-ready AI apps and full-stack platforms
-🧠 Strengthen skills in model deployment, APIs, and scalable backends
-🌍 Contribute consistently to impactful open-source projects
+- ✅ Secure a strong role in AI/ML, Full-Stack, or Software Engineering  
+- ✅ Master 300+ DSA problems across LeetCode/GFG  
+- 🚀 Build production-ready AI apps and full-stack platforms  
+- 🧠 Strengthen skills in model deployment, APIs, and scalable backends  
+- 🌍 Contribute consistently to impactful open-source projects
+
 
 ---
 

@@ -55,7 +55,7 @@
 
 - 🎓 Final-year B.Tech (CSE) @ **SR University** `CGPA: 9.3/10`  
 - 🏆 Diploma in CSE from Govt. Polytechnic, Warangal `CGPA: 9.74/10`  
-- 💡 Passionate about **AI/ML, Full Stack Dev, and Embedded IoT**  
+- 💡 Passionate about AI/ML, Full-Stack, and cutting-edge software technologies
 - ⚙️ Exploring **System Design** and **Scalable ML Deployments**  
 - 📈 Motto: *“Reimagine, Reinvent, Realize.”*
 </div>
@@ -134,11 +134,11 @@ Soft Skills:  Communication, Ownership, Teamwork, Adaptability
 
 ## 🎯 2025 Goals
 
-- ✅ Crack top-tier tech roles
-- ✅ Solve 300+ LeetCode/GFG DSA problems
-- 🚀 Launch deployable SaaS & AI products
-- 🧠 Learn MLOps + scalable infra
-- 🌍 Contribute meaningfully to open-source
+✅ Secure a strong role in AI/ML, Full-Stack, or Software Engineering
+✅ Master 300+ DSA problems across LeetCode/GFG
+🚀 Build production-ready AI apps and full-stack platforms
+🧠 Strengthen skills in model deployment, APIs, and scalable backends
+🌍 Contribute consistently to impactful open-source projects
 
 ---
 

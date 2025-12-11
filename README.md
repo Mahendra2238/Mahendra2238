@@ -82,20 +82,23 @@ Soft Skills:  Communication, Ownership, Teamwork, Adaptability
 
 - 🔹 **AI/ML Intern (Virtual)** — *Gustovalley Technovations* | Apr 2024 – May 2024  
 - 🔹 **Full Stack Web Development Intern (Virtual)** — *A.N.D.* | Jun 2024 – Aug 2024  
-- 🔹 **Python & ASP.NET Trainee** — *Softwayz IT Solutions* | Dec 2022 – May 2023  
+- 🔹 **Python Trainee** — *Softwayz IT Solutions* | Dec 2022 – May 2023  
 
 ---
 
 ## 🚀 Projects Showcase
 
-| 💡 Project                     | 🔎 Description                              | 🔧 Tech Stack                       |
-| ------------------------------ | ------------------------------------------- | ----------------------------------- |
-| 🤟 **Sign Language Detection** | Real-time sign recognition system           | `Python`, `CNN`, `OpenCV`           |
-| 🛡 **Smart Fencing System**    | ESP32-powered intrusion detection system    | `C++`, `IoT`, `Ultrasonic`, `LCD`   |
-| 🧾 **Invoice Generator SaaS**  | Full-stack invoice platform with PDF export | `Java`, `AngularJS`, `MySQL`, `JSP` |
-| 🧠 **Image Captioning**        | AI that narrates what it sees               | `TensorFlow`, `Transformer`, `LSTM` |
-| 🎬 **Movie Booking UI**        | Interactive ticket booking frontend         | `HTML`, `CSS`, `JS`                 |
-| 📹 **Security Camera System**  | Motion tracking + smart alerts              | `Python`, `OpenCV`                  |
+| 💡 Project | 🔎 Description | 🔧 Tech Stack |
+|-----------|----------------|----------------|
+| 🕵️ **Deepfake Detection & Attribution** | Detects manipulated videos using deep-learning–based video forensics | Python, DL, OpenCV |
+| 👤 **Face Recognition Attendance System** | Real-time face verification for automated attendance tracking | Python, FaceNet, OpenCV |
+| 💳 **Credit Card Fraud Detection** | Predicts fraudulent transactions using ML and anomaly detection | Python, ML, Sklearn |
+| 🤟 **Sign Language Detection** | Real-time hand-sign classification using CNN models | Python, CNN, OpenCV |
+| 🧠 **Image Captioning** | Generates descriptive captions using LSTM + Transformer architecture | TensorFlow, DL |
+| 🛡 **Smart Fencing IoT System** | ESP32-driven intrusion detection with multi-sensor alerts | C++, IoT, Ultrasonic, LCD |
+| 🧾 **Invoice Generator SaaS** | End-to-end invoicing system with PDF export and dashboard UI | Java, AngularJS, MySQL, JSP |
+| 🌐 **MERN Projects Collection** | Full-stack applications showcasing scalable web development | MongoDB, Express, React, Node |
+| 🎨 **Advanced Web UI Projects** | Modern UI/UX builds: portfolio, landing pages, weather app, forms | HTML, CSS, JS |
 
 ---
 

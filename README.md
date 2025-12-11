@@ -90,15 +90,16 @@ Soft Skills:  Communication, Ownership, Teamwork, Adaptability
 
 | 💡 Project | 🔎 Description | 🔧 Tech Stack |
 |-----------|----------------|----------------|
-| 🕵️ **Deepfake Detection & Attribution** | Detects manipulated videos using deep-learning–based video forensics | Python, DL, OpenCV |
+| 🕵️ **Multimodal Deepfake Detection & Attribution** | Identifies manipulated **images, audio, and videos** using advanced deep-learning forensics | Python, DL, OpenCV, Audio DSP |
 | 👤 **Face Recognition Attendance System** | Real-time face verification for automated attendance tracking | Python, FaceNet, OpenCV |
 | 💳 **Credit Card Fraud Detection** | Predicts fraudulent transactions using ML and anomaly detection | Python, ML, Sklearn |
-| 🤟 **Sign Language Detection** | Real-time hand-sign classification using CNN models | Python, CNN, OpenCV |
+| 🤟 **Sign Language Detection** | Real-time hand-sign classification using CNN-based models | Python, CNN, OpenCV |
 | 🧠 **Image Captioning** | Generates descriptive captions using LSTM + Transformer architecture | TensorFlow, DL |
 | 🛡 **Smart Fencing IoT System** | ESP32-driven intrusion detection with multi-sensor alerts | C++, IoT, Ultrasonic, LCD |
 | 🧾 **Invoice Generator SaaS** | End-to-end invoicing system with PDF export and dashboard UI | Java, AngularJS, MySQL, JSP |
-| 🌐 **MERN Projects Collection** | Full-stack applications showcasing scalable web development | MongoDB, Express, React, Node |
+| 🌐 **MERN Projects Collection** | Full-stack applications showcasing scalable modern web development | MongoDB, Express, React, Node |
 | 🎨 **Advanced Web UI Projects** | Modern UI/UX builds: portfolio, landing pages, weather app, forms | HTML, CSS, JS |
+
 
 ---
 

@@ -31,8 +31,8 @@
   <a href="https://www.linkedin.com/in/mahendra-gaddam-a77221299/">
     <img src="https://img.shields.io/badge/LinkedIn-Mahendra-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="[https://portfoli-om.vercel.app/](https://mahendraportfolio379.vercel.app/)">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=githubpages&logoColor=white">
+  <a href="https://mahendraportfolio379.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://leetcode.com/u/QO0wnzSslA/">
     <img src="https://img.shields.io/badge/LeetCode-86%20problem%20solved-orange?style=for-the-badge&logo=leetcode&logoColor=white">

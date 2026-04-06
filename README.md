@@ -53,7 +53,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="140" alt="Coding" style="margin-left: 20px; margin-top: -35px;" />
 
-- 🎓 Final-year B.Tech (CSE) @ **SR University** `CGPA: 9.3/10`  
+- 🎓 B.Tech (CSE) @ **SR University** `CGPA: 9.0/10`
 - 🏆 Diploma in CSE from Govt. Polytechnic, Warangal `CGPA: 9.74/10`  
 - 💡 Passionate about AI/ML, Full-Stack, and cutting-edge software technologies
 - ⚙️ Exploring **System Design** and **Scalable ML Deployments**  
@@ -71,7 +71,7 @@ Languages:    Python, Java, C++, C, C#, SQL
 Frontend:     HTML5, CSS3, JavaScript, PHP
 Backend:      ASP.NET, JSP/Servlets, Node.js
 Databases:    MySQL, MongoDB
-Cloud:        AWS (basic)
+Cloud:        AWS 
 Tools:        Git, GitHub, VS Code, Google Colab, Pycharm, Linux
 Soft Skills:  Communication, Ownership, Teamwork, Adaptability
 ````
@@ -80,6 +80,7 @@ Soft Skills:  Communication, Ownership, Teamwork, Adaptability
 
 ## 💼 Internships  
 
+- 🔹 **LLM Post Trainee Intern (Virtual)** — *Ethara AI* | Feb 2026 – Present  
 - 🔹 **AI/ML Intern (Virtual)** — *Gustovalley Technovations* | Apr 2024 – May 2024  
 - 🔹 **Full Stack Web Development Intern (Virtual)** — *A.N.D.* | Jun 2024 – Aug 2024  
 - 🔹 **Python Trainee** — *Softwayz IT Solutions* | Dec 2022 – May 2023  

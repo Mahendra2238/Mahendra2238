@@ -88,17 +88,20 @@ Soft Skills:  Communication, Ownership, Teamwork, Adaptability
 
 ## 🚀 Projects Showcase
 
-| 💡 Project | 🔎 Description | 🔧 Tech Stack |
-|-----------|----------------|----------------|
-| 🕵️ **Multimodal Deepfake Detection & Attribution** | Identifies manipulated **images, audio, and videos** using advanced deep-learning forensics | Python, DL, OpenCV, Audio DSP |
-| 👤 **Face Recognition Attendance System** | Real-time face verification for automated attendance tracking | Python, FaceNet, OpenCV |
-| 💳 **Credit Card Fraud Detection** | Predicts fraudulent transactions using ML and anomaly detection | Python, ML, Sklearn |
-| 🤟 **Sign Language Detection** | Real-time hand-sign classification using CNN-based models | Python, CNN, OpenCV |
-| 🧠 **Image Captioning** | Generates descriptive captions using LSTM + Transformer architecture | TensorFlow, DL |
-| 🛡 **Smart Fencing IoT System** | ESP32-driven intrusion detection with multi-sensor alerts | C++, IoT, Ultrasonic, LCD |
-| 🧾 **Invoice Generator SaaS** | End-to-end invoicing system with PDF export and dashboard UI | Java, AngularJS, MySQL, JSP |
-| 🌐 **MERN Projects Collection** | Full-stack applications showcasing scalable modern web development | MongoDB, Express, React, Node |
-| 🎨 **Advanced Web UI Projects** | Modern UI/UX builds: portfolio, landing pages, weather app, forms | HTML, CSS, JS |
+| 💡 Project                                                | 🔎 Description                                                                                                  | 🔧 Tech Stack                 |
+| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| 🕵️ **Multimodal Deepfake Detection & Attribution**       | Identifies manipulated **images, audio, and videos** using advanced deep-learning forensics                     | Python, DL, OpenCV, Audio DSP |
+| 👤 **Face Recognition Attendance System**                 | Real-time face verification for automated attendance tracking                                                   | Python, FaceNet, OpenCV       |
+| 💳 **Credit Card Fraud Detection**                        | Predicts fraudulent transactions using ML and anomaly detection                                                 | Python, ML, Sklearn           |
+| 🤟 **Sign Language Detection**                            | Real-time hand-sign classification using CNN-based models                                                       | Python, CNN, OpenCV           |
+| 🧠 **Image Captioning**                                   | Generates descriptive captions using LSTM + Transformer architecture                                            | TensorFlow, DL                |
+| 🛡 **Smart Fencing IoT System**                           | ESP32-driven intrusion detection with multi-sensor alerts                                                       | C++, IoT, Ultrasonic, LCD     |
+| 🧾 **Invoice Generator SaaS**                             | End-to-end invoicing system with PDF export and dashboard UI                                                    | Java, AngularJS, MySQL, JSP   |
+| 🌐 **MERN Projects Collection**                           | Full-stack applications showcasing scalable modern web development                                              | MongoDB, Express, React, Node |
+| 🎨 **Advanced Web UI Projects**                           | Modern UI/UX builds: portfolio, landing pages, weather app, forms                                               | HTML, CSS, JS                 |
+| 🎓 **UniEase – Unified Campus Life & Academic Assistant** | All-in-one campus platform integrating academics, services, and placements with role-based workflows            | Django, MySQL, HTML, CSS, JS  |
+| 🤖 **CIRA – Campus Information Retrieval Assistant**      | AI-powered assistant leveraging **SLM + RAG** to deliver precise campus-related information and query responses | Python, SLM, RAG, NLP         |
+
 
 
 ---

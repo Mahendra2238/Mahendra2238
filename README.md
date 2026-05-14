@@ -53,7 +53,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="140" alt="Coding" style="margin-left: 20px; margin-top: -35px;" />
 
-- 🎓 B.Tech (CSE) @ **SR University** `CGPA: 9.0/10`
+- 🎓 B.Tech (CSE) @ **SR University** `CGPA: 9.1/10`
 - 🏆 Diploma in CSE from Govt. Polytechnic, Warangal `CGPA: 9.74/10`  
 - 💡 Passionate about AI/ML, Full-Stack, and cutting-edge software technologies
 - ⚙️ Exploring **System Design** and **Scalable ML Deployments**  

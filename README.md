@@ -1,24 +1,32 @@
 <!-- GitHub Profile: Mahendra2238 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahendra+Gaddam;Software+Developer+%7C+AI%2FML+Explorer;B.Tech+CSE+%40+SR+University;Final+Year+Engineer;Placement+Ready+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahendra+Gaddam;Computer+Science+Graduate+%7C+Software+Developer;Python+%7C+Full-Stack+%7C+AI%2FML;Open+to+Software+Engineering+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/99184393/262482979-f6be5aa5-e79f-4f6e-9b25-f5de7284cb0a.gif" width="700" alt="Coding Animation"/>
 </p>
 
-<div align="center">
-  <a href="https://github.com/Mahendra2238">
-    <img src="https://komarev.com/ghpvc/?username=Mahendra2238&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/Mahendra2238?tab=followers">
-    <img src="https://img.shields.io/github/followers/Mahendra2238?label=Followers&style=social" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/Mahendra2238?tab=stars">
-    <img src="https://img.shields.io/github/stars/Mahendra2238?label=Stars&style=social" alt="GitHub Stars"/>
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Mahendra2238">
+        <img src="https://komarev.com/ghpvc/?username=Mahendra2238&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Mahendra2238?tab=followers">
+        <img src="https://img.shields.io/github/followers/Mahendra2238?label=Followers&style=social" alt="GitHub Followers"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Mahendra2238?tab=stars">
+        <img src="https://img.shields.io/github/stars/Mahendra2238?label=Stars&style=social" alt="GitHub Stars"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 

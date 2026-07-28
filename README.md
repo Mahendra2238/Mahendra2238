@@ -24,27 +24,42 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="mailto:mahendragaddam379@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-mahendragaddam379-red?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/mahendra-gaddam-a77221299/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mahendra-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://mahendraportfolio379.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://leetcode.com/u/QO0wnzSslA/">
-    <img src="https://img.shields.io/badge/LeetCode-200%2B%20problems%20solved-orange?style=for-the-badge&logo=leetcode&logoColor=white">
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/mahendragoedr/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Mahendra-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
-  </a>
-  <a href="https://www.hackerrank.com/profile/2303a51la9">
-    <img src="https://img.shields.io/badge/HackerRank-Mahendra-success?style=for-the-badge&logo=hackerrank&logoColor=white">
-  </a>
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="mailto:mahendragaddam379@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-mahendragaddam379-red?style=for-the-badge&logo=gmail&logoColor=white">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/mahendra-gaddam-a77221299/">
+        <img src="https://img.shields.io/badge/LinkedIn-Mahendra-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://mahendraportfolio379.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://leetcode.com/u/QO0wnzSslA/">
+        <img src="https://img.shields.io/badge/LeetCode-200%2B%20problems%20solved-orange?style=for-the-badge&logo=leetcode&logoColor=white">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.geeksforgeeks.org/user/mahendragoedr/">
+        <img src="https://img.shields.io/badge/GeeksforGeeks-Mahendra-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.hackerrank.com/profile/2303a51la9">
+        <img src="https://img.shields.io/badge/HackerRank-Mahendra-success?style=for-the-badge&logo=hackerrank&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -171,5 +186,3 @@ Soft Skills:  Communication, Ownership, Teamwork, Adaptability
   <h3>⭐ From <a href="https://github.com/Mahendra2238">Mahendra2238</a> with ❤️</h3>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
 </div>
-
-

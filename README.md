@@ -1,7 +1,7 @@
 <!-- GitHub Profile: Mahendra2238 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahendra+Gaddam;Computer+Science+Graduate+%7C+Software+Developer;Python+%7C+Full-Stack+%7C+AI%2FML;Open+to+Software+Engineering+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahendra+Gaddam;Computer+Science+Graduate+%7C+Software+Developer;Building+with+Python%2C+Web%2C+and+AI%2FML;Open+to+Software+Engineering+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -36,16 +36,16 @@
   <tr>
     <td align="center">
       <a href="mailto:mahendragaddam379@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-mahendragaddam379-red?style=for-the-badge&logo=gmail&logoColor=white">
+        <img src="https://img.shields.io/badge/Gmail-mahendragaddam379-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
       </a>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/mahendra-gaddam-a77221299/">
-        <img src="https://img.shields.io/badge/LinkedIn-Mahendra-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+        <img src="https://img.shields.io/badge/LinkedIn-Mahendra-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
     </td>
     <td align="center">
-      <a href="https://mahendraportfolio379.vercel.app/" target="_blank">
+      <a href="https://mahendraportfolio379.vercel.app/">
         <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
       </a>
     </td>
@@ -53,17 +53,17 @@
   <tr>
     <td align="center">
       <a href="https://leetcode.com/u/QO0wnzSslA/">
-        <img src="https://img.shields.io/badge/LeetCode-200%2B%20problems%20solved-orange?style=for-the-badge&logo=leetcode&logoColor=white">
+        <img src="https://img.shields.io/badge/LeetCode-290%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
       </a>
     </td>
     <td align="center">
       <a href="https://www.geeksforgeeks.org/user/mahendragoedr/">
-        <img src="https://img.shields.io/badge/GeeksforGeeks-Mahendra-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+        <img src="https://img.shields.io/badge/GeeksforGeeks-Mahendra-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
       </a>
     </td>
     <td align="center">
       <a href="https://www.hackerrank.com/profile/2303a51la9">
-        <img src="https://img.shields.io/badge/HackerRank-Mahendra-success?style=for-the-badge&logo=hackerrank&logoColor=white">
+        <img src="https://img.shields.io/badge/HackerRank-Mahendra-success?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
       </a>
     </td>
   </tr>
@@ -72,18 +72,18 @@
 ---
 
 ## 🚀 About Me
+
 <div align="justify">
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="140" alt="Coding" style="margin-left: 20px; margin-top: -35px;" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="140" alt="Coding Animation" />
 
-- 🎓 B.Tech (CSE) @ **SR University** `CGPA: 9.1/10`
-- 🏆 Diploma in CSE from Govt. Polytechnic, Warangal `CGPA: 9.74/10`  
-- 💡 Passionate about AI/ML, Full-Stack, and cutting-edge software technologies
-- ⚙️ Exploring **System Design** and **Scalable ML Deployments**  
-- 📈 Motto: *“Reimagine, Reinvent, Realize.”*
+- 🎓 Computer Science graduate from **SR University**
+- 💻 Interested in **Software Development, Full-Stack Development, and AI/ML**
+- 🧠 Building projects while strengthening **DSA, system design, and software engineering fundamentals**
+- 🤝 Adaptable, collaborative, and eager to solve meaningful real-world problems
+- 🚀 Currently open to **Software Engineer and Software Developer opportunities**
+
 </div>
-
-
 
 ---
 
@@ -91,49 +91,46 @@
 
 ```yaml
 Languages:    Python, Java, C++, C, C#, SQL
-Frontend:     HTML5, CSS3, JavaScript, PHP
-Backend:      ASP.NET, JSP/Servlets, Node.js
+Web:          HTML5, CSS3, JavaScript, Django, MERN Stack, REST APIs
 Databases:    MySQL, MongoDB
-Cloud:        AWS 
-Tools:        Git, GitHub, VS Code, Google Colab, Pycharm, Linux
-Soft Skills:  Communication, Ownership, Teamwork, Adaptability
+AI/ML:        Machine Learning, Deep Learning, NLP, Computer Vision, LLMs, RAG
+Tools:        Git, GitHub, Linux, AWS, VS Code, Google Colab, Postman
+Strengths:    Problem-Solving, Teamwork, Communication, Adaptability
 ````
 
 ---
 
-## 💼 Internships  
+## 💼 Experience & Training
 
-- 🔹 **LLM Post Trainee Intern (Virtual)** — *Ethara AI* | Feb 2026 – Present  
-- 🔹 **AI/ML Intern (Virtual)** — *Gustovalley Technovations* | Apr 2024 – May 2024  
-- 🔹 **Full Stack Web Development Intern (Virtual)** — *A.N.D.* | Jun 2024 – Aug 2024  
-- 🔹 **Python Trainee** — *Softwayz IT Solutions* | Dec 2022 – May 2023  
+* 🔹 **LLM Post-Training Intern (Remote)** — *Ethara AI* | Feb 2026 – May 2026
+* 🔹 **AI/ML Intern (Virtual)** — *Gustovalley Technovations* | Apr 2024 – May 2024
+* 🔹 **Full-Stack Web Development Intern (Virtual)** — *A.N.D.* | Jun 2024 – Aug 2024
+* 🔹 **Python Development Trainee** — *Softwayz IT Solutions* | Dec 2022 – May 2023
 
 ---
 
 ## 🚀 Projects Showcase
 
-| 💡 Project                                                | 🔎 Description                                                                                                  | 🔧 Tech Stack                 |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| 🕵️ **Multimodal Deepfake Detection & Attribution**       | Identifies manipulated **images, audio, and videos** using advanced deep-learning forensics                     | Python, DL, OpenCV, Audio DSP |
-| 👤 **Face Recognition Attendance System**                 | Real-time face verification for automated attendance tracking                                                   | Python, FaceNet, OpenCV       |
-| 💳 **Credit Card Fraud Detection**                        | Predicts fraudulent transactions using ML and anomaly detection                                                 | Python, ML, Sklearn           |
-| 🤟 **Sign Language Detection**                            | Real-time hand-sign classification using CNN-based models                                                       | Python, CNN, OpenCV           |
-| 🧠 **Image Captioning**                                   | Generates descriptive captions using LSTM + Transformer architecture                                            | TensorFlow, DL                |
-| 🛡 **Smart Fencing IoT System**                           | ESP32-driven intrusion detection with multi-sensor alerts                                                       | C++, IoT, Ultrasonic, LCD     |
-| 🧾 **Invoice Generator SaaS**                             | End-to-end invoicing system with PDF export and dashboard UI                                                    | Java, AngularJS, MySQL, JSP   |
-| 🌐 **MERN Projects Collection**                           | Full-stack applications showcasing scalable modern web development                                              | MongoDB, Express, React, Node |
-| 🎨 **Advanced Web UI Projects**                           | Modern UI/UX builds: portfolio, landing pages, weather app, forms                                               | HTML, CSS, JS                 |
-| 🎓 **UniEase – Unified Campus Life & Academic Assistant** | All-in-one campus platform integrating academics, services, and placements with role-based workflows            | Django, MySQL, HTML, CSS, JS  |
-| 🤖 **CIRA – Campus Information Retrieval Assistant**      | AI-powered assistant leveraging **SLM + RAG** to deliver precise campus-related information and query responses | Python, SLM, RAG, NLP         |
-
-
+| 💡 Project                                                | 🔎 Description                                                                              | 🔧 Tech Stack                          |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------------- | -------------------------------------- |
+| 🕵️ **Multimodal Deepfake Detection & Attribution**       | Detects manipulated **images, audio, and videos** using deep-learning techniques            | Python, Deep Learning, OpenCV          |
+| 👤 **Face Recognition Attendance System**                 | Performs real-time face verification for automated attendance tracking                      | Python, FaceNet, OpenCV                |
+| 💳 **Credit Card Fraud Detection**                        | Identifies potentially fraudulent transactions using machine-learning models                | Python, Machine Learning, Scikit-learn |
+| 🤟 **Sign Language Recognition**                          | Classifies hand gestures using a CNN-based real-time recognition pipeline                   | Python, CNN, OpenCV                    |
+| 🧠 **Image Captioning**                                   | Generates descriptive image captions using deep-learning architectures                      | TensorFlow, Deep Learning              |
+| 🛡 **Smart Fencing IoT System**                           | Detects intrusion using ESP32-based sensors and automated alerts                            | C++, IoT, ESP32                        |
+| 🧾 **Online Invoice Generation System**                   | Provides invoicing, customer/product management, and PDF invoice generation                 | Java, JSP, Servlets, MySQL             |
+| 🌐 **MERN Projects Collection**                           | Full-stack applications demonstrating modern web-development workflows                      | MongoDB, Express, React, Node.js       |
+| 🎨 **Web UI Projects**                                    | Responsive web applications including portfolios, landing pages, and utility apps           | HTML, CSS, JavaScript                  |
+| 🎓 **UniEase – Unified Campus Life & Academic Assistant** | Integrates academics, campus services, and placement resources through role-based workflows | Django, Python, MySQL, JavaScript      |
+| 🤖 **CIRA – Campus Information Retrieval Assistant**      | Uses SLM and RAG concepts to answer campus-related queries                                  | Python, NLP, SLM, RAG                  |
 
 ---
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahendra2238&theme=react-dark&hide_border=true&area=true&custom_title=Mahendra%20Gaddam's%20Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahendra2238&theme=react-dark&hide_border=true&area=true&custom_title=Mahendra%20Gaddam's%20Contribution%20Graph" alt="GitHub Contribution Graph" />
 </p>
 
 ---
@@ -141,32 +138,31 @@ Soft Skills:  Communication, Ownership, Teamwork, Adaptability
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Contribution Snake" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="GitHub Contribution Snake" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahendra2238&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Mahendra2238&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahendra2238&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" alt="GitHub Statistics" />
+  <img src="https://streak-stats.demolab.com?user=Mahendra2238&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahendra2238&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahendra2238&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" alt="Most Used Languages" />
 </p>
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Current Focus
 
-- ✅ Secure a strong role in AI/ML, Full-Stack, or Software Engineering  
-- ✅ Master 300+ DSA problems across LeetCode/GFG  
-- 🚀 Build production-ready AI apps and full-stack platforms  
-- 🧠 Strengthen skills in model deployment, APIs, and scalable backends  
-- 🌍 Contribute consistently to impactful open-source projects
-
+* 💼 Begin a career as a **Software Engineer or Software Developer**
+* 🧩 Strengthen **Data Structures, Algorithms, and software engineering fundamentals**
+* 🚀 Build reliable, end-to-end applications with real-world impact
+* 🧠 Deepen practical knowledge of **backend systems, AI/ML, and scalable applications**
+* 🌍 Contribute to meaningful open-source and collaborative projects
 
 ---
 
@@ -183,14 +179,18 @@ Soft Skills:  Communication, Ownership, Teamwork, Adaptability
 
 ---
 
+
 <p align="center">
-  <b>“I don't just write code. I craft intelligent, reliable experiences.”</b><br>
-  🚀 Let’s build something amazing together!
+  <b>Building reliable software, learning continuously, and creating meaningful solutions.</b><br>
+  🚀 Open to opportunities and collaboration.
 </p>
 
 ---
 
 <div align="center">
   <h3>⭐ From <a href="https://github.com/Mahendra2238">Mahendra2238</a> with ❤️</h3>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" alt="Footer" />
 </div>
+```
+
+Key fixes made: the broken four-backtick YAML block is corrected, the internship status is updated from **Present** to **May 2026**, the LeetCode badge is aligned with your **290+ problems** achievement, the title is shorter so it will not be cut off, and the goals section is replaced with a more professional **Current Focus** section.

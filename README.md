@@ -53,7 +53,7 @@
   <tr>
     <td align="center">
       <a href="https://leetcode.com/u/QO0wnzSslA/">
-        <img src="https://img.shields.io/badge/LeetCode-290%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+        <img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
       </a>
     </td>
     <td align="center">
